@@ -1,0 +1,24 @@
+#bg1{
+    background-image: url('assets/pexels-francesco-ungaro-2835436 1.png');
+}
+
+.living{
+    color:white;
+}
+
+.tujuan{
+    color:white;
+}
+
+.go{
+    border: 3px solid black;
+    border-radius: 50px;
+}
+
+.berangkat{
+    color:white;
+}
+
+.kembali{
+    color:white;
+}
